@@ -1,0 +1,1 @@
+Esse é o meu projeto do curso técnico em Informática, sugerido pelo professor. É também o meu primeiro projeto utilizando a plataforma GitHub e o meu primeiro portfólio. Espero poder evoluir e aprimorar este trabalho com o tempo, à medida que ganho mais experiência e conhecimento.
