@@ -106,22 +106,17 @@ header a:hover {
 .secao-projetos {
     padding: 40px 0;
     text-align: center;
-    background-image: url();
-    width: 50px;
-    height: 50px;
 }
 
 .secao-projetos h2 {
     margin-bottom: 30px;
     font-size: 2em;
-    background-image: url();
 }
 
 .grade-projetos {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     gap: 20px;
-    background-image: url();
 }
 
 .cartao-projeto {
